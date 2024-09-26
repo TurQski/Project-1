@@ -1,2 +1,2 @@
 # CS2400-Operation-Bagsome
-Group: ClarkRoski
+This is a temporary read-me file I will populate it later.
